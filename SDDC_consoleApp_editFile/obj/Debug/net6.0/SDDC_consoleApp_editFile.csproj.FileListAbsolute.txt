@@ -1,0 +1,15 @@
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\obj\Debug\net6.0\SDDC_consoleApp_editFile.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\obj\Debug\net6.0\SDDC_consoleApp_editFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\obj\Debug\net6.0\SDDC_consoleApp_editFile.AssemblyInfoInputs.cache
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\obj\Debug\net6.0\SDDC_consoleApp_editFile.AssemblyInfo.cs
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\obj\Debug\net6.0\SDDC_consoleApp_editFile.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\bin\Debug\net6.0\SDDC_consoleApp_editFile.exe
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\bin\Debug\net6.0\SDDC_consoleApp_editFile.deps.json
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\bin\Debug\net6.0\SDDC_consoleApp_editFile.runtimeconfig.json
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\bin\Debug\net6.0\SDDC_consoleApp_editFile.dll
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\bin\Debug\net6.0\SDDC_consoleApp_editFile.pdb
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\obj\Debug\net6.0\SDDC_consoleApp_editFile.dll
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\obj\Debug\net6.0\refint\SDDC_consoleApp_editFile.dll
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\obj\Debug\net6.0\SDDC_consoleApp_editFile.pdb
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\obj\Debug\net6.0\SDDC_consoleApp_editFile.genruntimeconfig.cache
+C:\Users\2281209\source\repostest\SDDC_consoleApp_editFile\SDDC_consoleApp_editFile\obj\Debug\net6.0\ref\SDDC_consoleApp_editFile.dll
